@@ -1,0 +1,11 @@
+{
+  "description": "changing the domain name",
+  "repo": "https://github.com/Hector-Vigil/Hector-Vigil.github.io",
+  "owner": {
+    "username": "Hector-Vigil",
+    "email": "vigilescalera.h@email",
+  },
+  "record": {
+    "CNAME": "Hector-Vigil.github.io"
+  }
+}
