@@ -21,9 +21,13 @@ a:hover {
   color: #e45900;
 }
 
-h1, h2 {
+h1, h2, h4 {
   font-family: 'EB Garamond', serif;
   margin-bottom: 2rem;
+}
+
+h2 {
+  font-style: italic;
 }
 
 h3 {
