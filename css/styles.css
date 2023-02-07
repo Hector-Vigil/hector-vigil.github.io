@@ -6,6 +6,10 @@
   text-align: center;
 }
 
+.start-align {
+  text-align: start;
+}
+
 .container {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -19,6 +23,22 @@ a, a:link, a:visited {
 
 a:hover {
   color: #e45900;
+}
+
+@media only screen and (max-width: 550px) {
+  .img-h {
+    max-height: 200rem;
+  }
+}
+
+@media only screen and (min-width: 551px) {
+  .img-h {
+  max-height: 300rem;
+  }
+}
+.img-h img {
+  max-height: 100%;
+  max-width: 100%;
 }
 
 h1, h2, h4 {
