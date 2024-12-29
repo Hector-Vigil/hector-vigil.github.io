@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hector-vigil.is-a.dev/sitemap.xml
+Sitemap: https://vigilescalera.dev/sitemap.xml
